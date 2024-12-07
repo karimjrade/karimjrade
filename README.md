@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karimjrade
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack developper
-- 💞️ I’m looking to collaborate on visual studio code
+- 💞️ I’m looking to collaborate on microsoft teams
 - 📫 How to reach me moe.jrade@hotmail.com
 
 
