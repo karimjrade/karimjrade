@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning full stack developper
 - 💞️ I’m looking to collaborate on visual studio code
 - 📫 How to reach me moe.jrade@hotmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 karimjrade/karimjrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
